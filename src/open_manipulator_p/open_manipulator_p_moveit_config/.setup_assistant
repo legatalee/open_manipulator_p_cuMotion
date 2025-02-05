@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: open_manipulator_p_description
+    relative_path: urdf/open_manipulator_p.urdf
+  srdf:
+    relative_path: config/open_manipulator_p.srdf
+  package_settings:
+    author_name: Jimin Lee
+    author_email: legatalee@gmail.com
+    generated_timestamp: 1738732594
